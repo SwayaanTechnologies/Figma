@@ -10,7 +10,7 @@ Figma is a cloud-based design and prototyping tool used for interface design, us
 * [**Setting Up Figma**](#setting-up-figma)
 * [**Basic Design Concepts**](#basic-design-concepts)
 * [**Organizing Your Design**](#organizing-your-design)
-* **Prototyping**
+* [**Prototyping**](#prototyping)
 * **Collaboration Features**
 * **Advanced Features**
 * **Reference**
@@ -263,3 +263,49 @@ Frames in Figma are containers that hold your design elements. They define the b
 * Manage variants in the "Properties" panel.
 
 ![image](image/image13.png)
+
+## **Prototyping**
+  
+* [**Prototype Tab**](#prototype-tab)  
+* [**Creating Links**](#creating-links)
+* [**Previewing Prototypes**](#previewing-prototypes)
+
+### **Prototype Tab**
+
+* The Prototype Tab in Figma allows you to add interactivity to your designs, creating a more dynamic and user-friendly experience.
+* Switch to the Prototype Tab located in the upper-left corner of the Figma interface.
+
+![image](image/image14.png)
+
+### **Creating Links**
+
+**Adding Interactions:**
+
+* Select an object (e.g., button, icon) on the canvas.
+* Drag the arrow icon (connection point) that appears to another frame on the canvas to create a link.
+
+![image](image/image15.png)
+
+**Defining Interactions:**
+
+* Double-click on the connection arrow to open the Interaction Details panel.
+* Define the interaction type (e.g., On Click, On Hover) and choose the destination frame.
+* Set additional properties like animation and easing.
+
+![image](image/image16.png)
+
+### **Previewing Prototypes**
+
+**Preview Mode:**
+
+* Click on the "Present" button in the top-right corner to enter the preview mode.
+* This mode allows you to interact with your design as users would.
+
+![image](image/image17.png)
+
+**Navigating Prototypes:**
+
+* Interact with linked objects to navigate between frames.
+* Test interactions, transitions, and animations.
+
+![image](image/image18.gif)
