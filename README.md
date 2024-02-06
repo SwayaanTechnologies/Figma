@@ -12,7 +12,7 @@ Figma is a cloud-based design and prototyping tool used for interface design, us
 * [**Organizing Your Design**](#organizing-your-design)
 * [**Prototyping**](#prototyping)
 * [**Collaboration Features**](#collaboration-features)
-* **Advanced Features**
+* [**Advanced Features**](#advanced-features)
 * **Reference**
 
 ## **Introduction**
@@ -344,3 +344,47 @@ Frames in Figma are containers that hold your design elements. They define the b
 
 * Collaborators receive notifications when comments are added or resolved.
 * Respond to comments by replying within the comment thread.
+
+## **Advanced Features**
+
+* [**Version History**](#version-history) 
+* [**Plugins**](#plugins)
+
+### **Version History** 
+
+**Accessing Version History:**
+
+* Click on the "File" menu and select "Version History."
+* View a list of saved versions of your design file.
+
+**Reviewing Versions:**
+
+* Each version includes a timestamp and a brief description of changes made.
+* Click on a version to preview and compare with the current state.
+
+**Restoring Versions:**
+
+* To revert to a previous version, select it and click "Restore."
+* Restoring a version does not delete the current file; it creates a new version.
+
+### **Plugins**
+
+**Accessing Plugins:**
+
+* Click on the "Plugins" menu to explore and manage plugins.
+* Visit the Figma Community to discover a wide range of available plugins.
+
+**Installing Plugins:**
+
+* Browse the plugin directory, click on a plugin, and select "Install" to add it to your Figma workspace.
+* Installed plugins appear in the "Plugins" menu.
+
+**Using Plugins:**
+
+* Plugins enhance Figma's functionality by adding features and integrations.
+* Some plugins automate tasks, provide design assets, or offer design assistance.
+
+**Developing Custom Plugins:**
+
+* For advanced users, Figma supports the development of custom plugins using JavaScript.
+* Visit the Figma Plugin API documentation for information on creating your plugins.
