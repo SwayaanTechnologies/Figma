@@ -8,8 +8,8 @@ Figma is a cloud-based design and prototyping tool used for interface design, us
 
 * [**Introduction**](#introduction)
 * [**Setting Up Figma**](#setting-up-figma)
-* **Basic Design Concepts**
-* **Organizing Your Design**
+* [**Basic Design Concepts**](#basic-design-concepts)
+* [**Organizing Your Design**](#organizing-your-design)
 * **Prototyping**
 * **Collaboration Features**
 * **Advanced Features**
@@ -204,3 +204,62 @@ Frames in Figma are containers that hold your design elements. They define the b
 
 * Use the text tool to add and edit text.
 * Customize text properties such as font, size, color, and alignment in the "Properties" panel.
+
+## **Organizing Your Design**
+
+* **Layers Organization**
+* **Using Components**
+
+### **Layers Organization**
+
+**Layers Panel:**
+
+* The Layers Panel is your key tool for managing and organizing design elements.
+* It displays a hierarchical view of all layers in your design, including frames, shapes, and text.
+
+![image](image/image8.png)
+
+**Grouping Layers:**
+
+* Select multiple layers by holding down "Shift" and clicking.
+* Right-click and choose "Group Selection" or use the shortcut "Cmd/Ctrl + G" to group selected layers.
+* Grouping helps keep related elements together and makes the Layers Panel more organized.
+
+![image](image/image7.png)
+
+**Renaming Layers:**
+
+* Double-click on a layer's name to rename it for better clarity.
+* Descriptive names make it easier to identify and manage layers.
+
+![image](image/image9.png)
+
+**Adjusting Stacking Order:**
+
+* Drag layers up or down in the Layers Panel to change their stacking order.
+* The order affects how layers overlap on the canvas.
+
+![image](image/image10.png)
+
+### **Using Components**
+
+**Introduction to Components:**
+
+* Components are reusable design elements that maintain consistency across your project.
+* Create components from any object or group by selecting and clicking "Create Component" in the toolbar or right-click menu.
+
+![image](image/image11.png)
+
+**Instances of Components:**
+
+* Drag and drop a component from the Assets Panel to create instances.
+* Instances are duplicates linked to the original component. Editing the component updates all its instances.
+
+![image](image/image12.png)
+
+**Component Variants:**
+
+* Create component variants for different states or styles by using the "Create Variant" option.
+* Manage variants in the "Properties" panel.
+
+![image](image/image13.png)
