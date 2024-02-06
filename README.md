@@ -11,7 +11,7 @@ Figma is a cloud-based design and prototyping tool used for interface design, us
 * [**Basic Design Concepts**](#basic-design-concepts)
 * [**Organizing Your Design**](#organizing-your-design)
 * [**Prototyping**](#prototyping)
-* **Collaboration Features**
+* [**Collaboration Features**](#collaboration-features)
 * **Advanced Features**
 * **Reference**
 
@@ -309,3 +309,38 @@ Frames in Figma are containers that hold your design elements. They define the b
 * Test interactions, transitions, and animations.
 
 ![image](image/image18.gif)
+
+## **Collaboration Features**
+  
+* [**Team Collaboration**](#team-collaboration) 
+* [**Comments**](#comments)
+
+### **Team Collaboration** 
+
+**Inviting Team Members:**
+
+* Click on the "Invite to Team" button in the top-right corner to add team members.
+* Enter email addresses or invite collaborators directly from the design file.
+
+**Real-time Collaboration:**
+
+* Multiple team members can work on the same project simultaneously in real-time.
+* Changes made by one user are instantly reflected for others, fostering efficient collaboration.
+
+### **Comments**
+
+**Adding Comments:**
+
+* Select an object or area on the canvas.
+* Click on the comment icon in the toolbar or use the shortcut "R" to open the comment mode.
+* Click on the canvas to add a comment related to the selected area or object.
+
+**Resolving Comments:**
+
+* Once a comment is addressed or resolved, click on the "Resolve" button within the comment thread.
+* Resolved comments are archived but can be revisited for reference.
+
+**Notification and Replies:**
+
+* Collaborators receive notifications when comments are added or resolved.
+* Respond to comments by replying within the comment thread.
