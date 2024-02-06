@@ -7,7 +7,7 @@ Figma is a cloud-based design and prototyping tool used for interface design, us
 ## Table of Contents
 
 * [**Introduction**](#introduction)
-* **Setting Up Figma**
+* [**Setting Up Figma**](#setting-up-figma)
 * **Basic Design Concepts**
 * **Organizing Your Design**
 * **Prototyping**
@@ -148,3 +148,59 @@ Figma is a cloud-based design and prototyping tool used for interface design, us
   * Shows properties of the selected object.
   * Adjust details such as color, size, typography, and effects.
   * Explore the "Design" and "Prototype" tabs for specific property adjustments.
+
+## **Basic Design Concepts**
+
+* [**Frames**](#frames)
+* [**Adding Elements**](#adding-elements)
+* [**Editing and Styling**](#editing-and-styling)
+
+### **Frames**
+
+Frames in Figma are containers that hold your design elements. They define the boundaries of your design and can be used to organize content.
+
+**Creating Frames:**
+
+* Select the "Frame" tool in the toolbar.
+* Click and drag on the canvas to create a frame.
+* Frames can be resized and repositioned as needed
+
+![image](image/image4.png)
+
+### **Adding Elements**
+
+**Shapes:**
+
+* Use the shape tools in the toolbar to add basic elements such as rectangles, circles, triangles, etc.
+* Click on a shape tool, then click and drag on the canvas to draw the shape.
+
+![image](image/image5.png)
+
+**Importing Assets:**
+
+* Import images, icons, and other assets by dragging them directly onto the canvas or using the "Import" option in the menu.
+* Supported file formats include PNG, JPEG, SVG, and others.
+
+![image](image/image6.png)
+
+### **Editing and Styling**
+
+**Selecting Objects:**
+
+* Use the selection tool in the toolbar to click on and select objects on the canvas.
+* Hold down "Shift" to select multiple objects.
+
+**Editing Objects:**
+
+* Double-click on an object to enter editing mode. For text, double-click to edit the text directly.
+* Use the handles to resize, and drag to reposition objects.
+
+**Styling Objects:**
+
+* Customize the appearance of objects in the "Properties" panel.
+* Adjust properties such as fill color, stroke, opacity, and more.
+
+**Text Editing:**
+
+* Use the text tool to add and edit text.
+* Customize text properties such as font, size, color, and alignment in the "Properties" panel.
